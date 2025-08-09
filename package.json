@@ -1,0 +1,21 @@
+{
+  "name": "web3-tool",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "chalk": "^5.5.0",
+    "ethers": "^5.7.2",
+    "https-proxy-agent": "^7.0.6",
+    "inquirer": "^12.9.1",
+    "inquirer-search-checkbox": "^1.0.0"
+  },
+  "main": "alpha_monitor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
