@@ -15,7 +15,7 @@
 
 ## 安装
 
-确保已安装 Node.js（建议版本 ≥ 18）。
-在项目目录下执行以下命令安装依赖包：
-npm install
-node alpha_monitor.js
+- **确保已安装 Node.js（建议版本 ≥ 18）。
+- **在项目目录下执行以下命令安装依赖包：
+- **npm install
+- **node alpha_monitor.js
